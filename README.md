@@ -2,7 +2,6 @@
 
 ## Execution Environment
 - Java Version : 8
-- Ubuntu 18.04.4 LTS
 
 ## Functions
 - can caluculate an Expressions consisting of arithmetic operations. (+, -, *, /)
